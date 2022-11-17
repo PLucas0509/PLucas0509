@@ -67,9 +67,9 @@ When I'm not coding, you'll find me drawing ✏️stuff or doing personal projec
 
 
 ## 🔝 Most used languages
-
-  /<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLucas0509&layout=contribs&hide_border=true&theme=radical" />
-
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLucas0509&layout=contribs&hide_border=true&theme=radical" />
+</p>
 ---
 
 
