@@ -72,6 +72,6 @@ When I'm not coding, you'll find me drawing ✏️stuff or doing personal projec
 </p>
 
 ---
-
+<p align="center">
 ![ Animation de serpent ](https://user-images.githubusercontent.com/78353572/169007633-272dc318-6e18-4188-859e-ebb9537c1920.svg)
-
+</p>
